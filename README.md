@@ -1,0 +1,4 @@
+# Refleksi Modul 1
+
+## Refleksi 1
+Saya belajar untuk ngerapihin struktur biar gampang dibaca dan dikembangin. Saya jadi paham Impelemntasi Controller, Service, Repository itu  supaya logic nggak campur aduk, dan pentingnya penamaan variable yang jelas karena membantu waktu debugging. Saya juga belajar basic secure coding serta operasi yang mengubah data seperti edit/delete lebih tepat pakai POST. Dari sini saya belajar perlu membiasakan diri untuk validasi input dan handle error lebih baik lagi, dan juga clean code yang baru saya sadari pentingnya, yang dimana saya tidak belajar hal ini di PBP.
